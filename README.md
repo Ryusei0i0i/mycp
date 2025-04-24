@@ -8,7 +8,6 @@ This tool mimics the basic behavior of the `cp` command, with a clearer interfac
 - Copy a file from source to destination
 - Clear interface: `--from` and `--to`
 - Prints success or error messages in English
-- Safe error handling (e.g., directory check, overwrite warning)
 
 ---
 
