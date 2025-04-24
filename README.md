@@ -31,4 +31,6 @@ Copy completed: notes.txt → backup/notes.txt
 - Go 1.18 or later
 - Linux (recommended for testing)
 
+License
+MIT
 > README drafted with help from ChatGPT
